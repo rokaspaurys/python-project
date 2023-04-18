@@ -1,0 +1,107 @@
+[
+    {
+        "Data": "2022.10.10",
+        "Laikas": "8:00-9:05",
+        "Vardas": "Mario",
+        "Pavarde": "Mario",
+        "Pratimai": "sokdyne: 3 x 5 min., sprintas: 3x1 min., begimas: 3x15 min."
+    },
+    {
+        "Data": "2022.10.10",
+        "Laikas": "9:25-10:45",
+        "Vardas": "Mark",
+        "Pavarde": "Cuban",
+        "Pratimai": "atsispaudimai: 3x25, atsilenkimai: 3x25, prisitraukimai: 5x10."
+    },
+    {
+        "Data": "2022.10.10",
+        "Laikas": "12:25-13:45",
+        "Vardas": "Darth",
+        "Pavarde": "Vader",
+        "Pratimai": "pritupimai: 50, begimas: 3x25 min., plaukimas 25 min."
+    },
+    {
+        "Data": "2022.10.11",
+        "Laikas": "11:00-12:00",
+        "Vardas": "LeBron",
+        "Pavarde": "James",
+        "Pratimai": "begimas: 2x20 min., sokdyne: 2x5 min."
+    },
+    {
+        "Data": "2022.10.11",
+        "Laikas": "12:15-13:20",
+        "Vardas": "Mark",
+        "Pavarde": "Zuckerberg",
+        "Pratimai": "atsispaudimai: 45, atsilenkimai: 2x40, begimas: 15 min."
+    },
+    {
+        "Data": "2022.10.11",
+        "Laikas": "13:45-15:00",
+        "Vardas": "Elon",
+        "Pavarde": "Musk",
+        "Pratimai": "prisitraukimai: 3x15, sprintas: 5x1 min., begimas: 2x10 min."
+    },
+    {
+        "Data": "2022.10.12",
+        "Laikas": "9:00-11:00",
+        "Vardas": "Lamar",
+        "Pavarde": "Davis",
+        "Pratimai": "atsispaudimai: 3x45, atsilenkimai: 3x40, begimas: 2x15 min., prisitraukimai 5x15"
+    },
+    {
+        "Data": "2022.10.12",
+        "Laikas": "11:30-12:30",
+        "Vardas": "Mark",
+        "Pavarde": "Zuckenberg",
+        "Pratimai": "atsispaudimai: 45, atsilenkimai: 2x40, begimas: 15 min."
+    },
+    {
+        "Data": "2022.10.12",
+        "Laikas": "15:30-16:30",
+        "Vardas": "Mark",
+        "Pavarde": "Cuban",
+        "Pratimai": "atsispaudimai: 45, sokdyne: 2x5 min., begimas: 2x5 min."
+    },
+    {
+        "Data": "2022.10.13",
+        "Laikas": "8:30-9:30",
+        "Vardas": "Elon",
+        "Pavarde": "Musk",
+        "Pratimai": "sokdyne: 3x5min, atsilenkimai: 2x30, begimas: 15 min."
+    },
+    {
+        "Data": "2022.10.13",
+        "Laikas": "10:30-11:30",
+        "Vardas": "Mark",
+        "Pavarde": "Zuckenberg",
+        "Pratimai": "atsispaudimai: 45, atsilenkimai: 2x40, begimas: 15 min."
+    },
+    {
+        "Data": "2022.10.13",
+        "Laikas": "14:30-15:20",
+        "Vardas": "Mario",
+        "Pavarde": "Mario",
+        "Pratimai": "begimas: 30 min., sokdyne: 2x5 min."
+    },
+    {
+        "Data": "2022.10.14",
+        "Laikas": "9:30-10:20",
+        "Vardas": "LeBron",
+        "Pavarde": "James",
+        "Pratimai": "atsispaudimai: 2x25, spirtas: 5x1 min., sokdyne 2x5 min."
+    },
+    {
+        "Data": "2022.10.14",
+        "Laikas": "12:00-13:00",
+        "Vardas": "Lamar",
+        "Pavarde": "Davis",
+        "Pratimai": "prisitaukimai: 3x15, begimas: 3x5 min."
+    },
+    {
+        "Data": "2022.10.14",
+        "Laikas": "15:45-16:45",
+        "Vardas": "Darth",
+        "Pavarde": "Vader",
+        "Pratimai": "atsilenkimai: 2x30, atsispaudimai: 3x40, sprintas: 3x1 min."
+    }
+]
